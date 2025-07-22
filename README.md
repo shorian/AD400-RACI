@@ -2,7 +2,7 @@
 
 Since "planning a significant personal event like a move or trip" was a recommended type of project for this assignment, I chose to create a chart for my upcoming move. I currently live with one roommate and we will be going our separate ways, completing the bulk of the move on August 3rd.
 
-[View initial chart](RACI Chart - Initial.pdf)
+<a href="./RACI Chart - Initial.pdf">View initial chart</a>
 
 ## Analysis
 
@@ -17,7 +17,7 @@ Other notes:
 - I tried including my cosigner and landlords, as they are C's or I's for a couple tasks, but I decided this made the chart harder to parse for no real benefit.
 - "Clean old apartment" was removed - our lease specifies a non-refundable cleaning fee. "Repair holes in walls" was added, as I made quite a few of those.
 
-[View revised chart](RACI Chart - Revised.pdf)
+<a href="./RACI Chart - Revised.pdf">View revised chart</a>
 
 ## Creating the Chart in Confluence
 
